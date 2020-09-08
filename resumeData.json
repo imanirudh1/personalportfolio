@@ -1,0 +1,117 @@
+{
+  "main": {
+    "name": "Aniruddha Banerjee",
+    "occupation": "Front-end Developer",
+    "description": "I have a passion for creating beautiful web applications.",
+    "image": "AB.jpg",
+    "bio": "I live in Dhanbad, Jharkhand. I am a Front-end Developer. I love to design and develop beautiful web applications.I prefer to keep learning, continue challenging myself, and do interesting things that matter.",
+    "contactmessage": "Get in touch with me to receive further details, get coached or anything else.",
+    "email": "anirudbanerjee14@gmail.com",
+    
+    "address": {
+      "street": "Qtr No. D/9 CCWO COLONY",
+      "city": "Dhanbad",
+      "state": "Jharkhand",
+      "zip": "828127"
+    },
+    "website": "http://www.timbakerdev.com",
+    "resumedownload": "https://drive.google.com/file/d/1k2BZ9-jJhgBvl77Q3RWPWQr49bZ65NQl/view?usp=sharing",
+    "social": [
+      {
+        "name": "facebook",
+        "url": "https://www.facebook.com/imanirudh1/",
+        "className": "fa fa-facebook"
+      },
+      {
+        "name": "linkedin",
+        "url": "https://www.linkedin.com/in/imanirudh1/",
+        "className": "fa fa-linkedin"
+      },
+      {
+        "name": "instagram",
+        "url": "https://www.instagram.com/anirudh.dev/",
+        "className": "fa fa-instagram"
+      },
+      {
+        "name": "github",
+        "url": "https://github.com/imanirudh1",
+        "className": "fa fa-github"
+      }
+    ]
+  },
+  "resume": {
+    "skillmessage": "Development is my passion, and I love to create and learn new things, I hope to continue creating great projects and helping other developers",
+    "education": [
+      {
+        "school": "Sri Siddhartha Institute of Technology",
+        "degree": "Bachelor of Engineering in Computer Science",
+        "graduated": "August 2020",
+        "description": ""
+      }
+    ],
+    "work": [
+      {
+        "company": "Clever Programmer",
+        "title": "Team Member && React Specialist",
+        "years": "April 2020 - Present",
+        "description": "Teaching ReactJS to thousands of students."
+      }
+    ],
+    "skills": [
+      {
+        "name": "ReactJs",
+        "level": "60%"
+      },
+      {
+        "name": "CSS",
+        "level": "80%"
+      },
+      {
+        "name": "Git",
+        "level": "60%"
+      },
+      {
+        "name": "Python",
+        "level": "80%"
+      },
+      {
+        "name": "HTML5",
+        "level": "80%"
+      },
+      {
+        "name": "PostgreSql",
+        "level": "80%"
+      }
+    ]
+  },
+  "portfolio": {
+    "projects": [
+      {
+        "title": "Form Validator",
+        "category": "with JavaScript,css",
+        "image": "fr2.jpg",
+        "url": "https://form-validator-imanirudh1.netlify.app/"
+      },
+      {
+        "title": "Meals App",
+        "category": "A app were we can view Recipes , favorite and filter based on user preference with custom navigation drawer and Material tab bar",
+        "image": "meal2.jpg",
+        "url": "https://github.com/imanirudh1/MealsApp"
+      },
+      {
+        "title": "Movie Seat Booking",
+        "category": "",
+        "image": "mv.png",
+        "url": "https://movi-ticket-imanirudh1.netlify.app/"
+      }
+    ]
+  },
+  "testimonials": {
+    "testimonials": [
+      {
+        "text": "Wherever you are in your life just belive in urself every thing is possible.",
+        "user": "Anirudh"
+      }
+    ]
+  }
+}
