@@ -18,10 +18,6 @@ class Footer extends Component {
               {networks}
            </ul>
 
-           <ul>
-            <li>Modified with love by the Clever Programmer team ♥️</li>
-           </ul>
-
         </div>
         <div id="go-top"><a className="smoothscroll" title="Back to Top" href="#home"><i className="icon-up-open"></i></a></div>
      </div>
